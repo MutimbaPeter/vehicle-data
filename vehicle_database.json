@@ -295779,7 +295779,6 @@
  {
   "Unique Model Code": 32355,
   "HSC CODE": "8703.23.90",
-  "COO": "DE",
   "Car Details": "Volkswagen Touran  Model 1TZEW  2010",
   "CC": "1600 cc",
   "Year of Manufacture": 2010
@@ -295803,9 +295802,28 @@
   "Year of Manufacture": 2024
  },
  {
-  "Unique Model Code": 32350,
+  "Unique Model Code": 31112,
+  "HSC CODE": "8702.23.90",
+  "Year of Manufacture": ""
+ },
+ {
+  "Unique Model Code": 32353,
   "HSC CODE": "8703.23.90",
-  "COO": "DE",
+  "Year of Manufacture": ""
+ },
+ {
+  "Unique Model Code": 31107,
+  "HSC CODE": "8702.23.90              JP       Toyota Townace Van, Model S402M (Petrol), 2011                                                                       1500 cc                 4,877.41",
+  "Year of Manufacture": ""
+ },
+ {
+  "Unique Model Code": 32348,
+  "HSC CODE": "8703.23.90              DE       Volkswagen Touran, Model 1TZDW, 2010                                                                                   1400 cc                 2,641.64",
+  "Year of Manufacture": ""
+ },
+ {
+  "Unique Model Code": 32350,
+  "HSC CODE": "8703.23.90              DE",
   "Car Details": "Volkswagen Touran  Model 1TZDW  2012",
   "CC": "1400 cc                 2,882.67",
   "Year of Manufacture": 2012
